@@ -10,4 +10,8 @@ wangyexiugai
 >>>>>>> 43084d7b93009001d248c94d3eeee96a3b4f6fe0
 =======
 2015410540444  lxf  wyxg first
+<<<<<<< HEAD
 >>>>>>> 6cb2a01be1445aa79c99683f3dc125b0168f4a2b
+=======
+201541054002 lf wyxg frist
+>>>>>>> e7e14825ed40aa179c626eb52b84e8a4bee59871
